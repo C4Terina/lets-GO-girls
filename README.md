@@ -1,0 +1,1 @@
+My golang training to get proficient in the language 
