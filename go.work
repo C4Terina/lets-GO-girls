@@ -1,0 +1,8 @@
+go 1.21.1
+
+use (
+	./testing_go/arrays_and_slices
+	./testing_go/hello_world
+	./testing_go/integers
+	./testing_go/iteration
+)
